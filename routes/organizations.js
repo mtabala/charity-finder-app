@@ -25,3 +25,13 @@ router.get("/", (req,res) => {
     console.log (organizations);
     res.status(200).json(organizationsData);
 })
+
+//get organization by id
+router.get ("/:id", (req,res)=> {
+    const organizations = readOrganizations();
+    console.log (req.params.id);
+    const organization = organizations.find((organization) => organization.id === req.params.id);
+    res.status(200).json(organization);
+})
+
+module.exports = router ;
