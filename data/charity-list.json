@@ -1,0 +1,205 @@
+[
+    {
+      "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
+      "charity": "Feeding America",
+      "location": "Chicago, Illinois",
+      "url": "https://www.feedingamerica.org",
+      "image": "",
+      "description": "Feeding America is the largest charity working to end hunger in the United States. We partner with food banks, food pantries, and local food programs to bring food to people facing hunger. We advocate for policies that create long-term solutions to hunger.",
+      "field": "Food Charity",  
+      "testimonials": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Micheal Duncan",
+          "comment": "Feeding America has programs to reach children, seniors, and families no matter where they live or spend time. At senior centers or schools, in the city or countryside, Feeding America programs get food to people where they are and when they need it most",
+          "timestamp": 1628522461000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Gary Wong",
+          "comment": "Mobile pantries bring free groceries directly to your community. They are a great option for many families, especially in areas where traditional food pantries and stores aren't available.",
+          "timestamp": 1626359541000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": "Theodore Buns",
+          "comment": "If you or someone you know needs extra help buying groceries, you may qualify for SNAP. The Feeding America network can help you learn about your options and complete your application if you qualify.",
+          "timestamp": 1626011132000
+        }
+      ]
+    },
+    {
+      "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfcd3",
+      "charity": "Boys and Girls Clubs of America",
+      "location": "Atlanta, GA ",
+      "url": "https://www.bgca.org",
+      "image": "",
+      "description": "We believe every kid has what it takes. The mission and core beliefs of Boys & Girls Clubs fuel our commitment to promoting safe, positive and inclusive environments for all. Boys & Girls Clubs of America supports all youth and teens – of every race, ethnicity, gender, gender expression, sexual orientation, ability, socio-economic status, and religion – in reaching their full potential. ",
+      "field": "Youth Needs",  
+      "testimonials": [
+        {
+          "id": "99478bed-6428-49ed-8eaa-f245a5414336",
+          "name": "Harry Peterson",
+          "comment": "This is our mantra, our promise, as we help kids become their best selves on their paths to great futures. ",
+          "timestamp": 1620930181000
+        },
+        {
+          "id": "fc2e9a8c-7daa-4e14-980d-5467ca2054ec",
+          "name": "Willow Vens",
+          "comment": "The Boys & Girls Club has been an amazing experience for my family.",
+          "timestamp": 1630656720000 
+        },
+        {
+          "id": "99938bd4-67f9-4404-ad3e-b23a6ad05717",
+          "name": "June Stills",
+          "comment": "A Boys & Girls Club gives parents peace of mind after school and during the summer.",
+          "timestamp": 1630790612000
+        }
+      ]
+    },
+    {
+      "id": "c93c16f0-4795-45d1-b0da-21696d54f25a",
+      "charity": "BCSPCA Speaking For Animals",
+      "location": "Vancouver, BC",
+      "url": "https://spca.bc.ca/",
+      "image": "",
+      "description": "The British Columbia Society for the Prevention of Cruelty to Animals (BC SPCA). Our mission is to protect and enhance the quality of life for domestic, farm and wild animals in BC.",
+      "field": "Animal Welfare",  
+      "testimonials": [
+        {
+          "id": "fc5261d1-58a0-47e4-9c19-2b7a1715fa1b",
+          "name": "Ben Cross",
+          "comment": "No one wants to see these beautiful animals suffering, so we all do our part to protect wildlife in our communities.",
+          "timestamp": 1630762321000
+        },
+        {
+          "id": "85e3621c-493a-41e0-b0f8-2734d102c7d9",
+          "name": "Poochy McDog",
+          "comment": "Adopting a dog is a big decision. As their guardian, you will be responsible for the care and wellbeing of the dog their entire life",
+          "timestamp": 1630678260000
+        },
+        {
+          "id": "bc913baf-ff2e-41f0-99cb-b7ef4dc70ab4",
+          "name": "Jenny Hoppers",
+          "comment": " The rabbit is the luckiest animal on the Chinese zodiac and symbolizes the character traits of creativity, compassion and sensitivity.",
+          "timestamp": 1630963412000
+        }
+      ]
+    },
+    {
+      "id": "52a21461-b0cc-43bc-a9d6-d52a7d4cedbe",
+      "charity": "UNION GOSPEL MISSION",
+      "location": "Vancouver BC",
+      "url": "https://www.charitycarprogram.ca/charities",
+      "image": "",
+      "description": "Every day, people walk through UGM’s doors looking for hope. We journey with people as they courageously transform their lives out of poverty, homelessness, and addiction.",
+      "field": "substance abuse",  
+      "testimonials": [
+        {
+          "id": "9c268c0a-83dc-4b96-856a-bb5ded2772b1",
+          "name": "Mike Joe",
+          "comment": "This place saved my life highly recommend",
+          "timestamp": 1631273521000
+        },
+        {
+          "id": "fcc1cbf2-e332-4b49-9643-c08ddd8f85af",
+          "name": "Marco C.",
+          "comment": "Our commercial-free programming shines a light on the environmental, social, cultural, and economic forces that affect our daily lives",
+          "timestamp": 1631088092000
+        },
+        {
+          "id": "797ca18c-4fd4-4887-b9f4-3ec098e8121d",
+          "name": "Aaron Boots",
+          "comment": "Every day, people walk through UGM’s doors looking for hope. We journey with people as they courageously transform their lives out of poverty, homelessness, and addiction.",
+          "timestamp": 1631023292000
+        }
+      ]
+    },
+    {
+      "id": "823f6f49-db71-49fe-9918-bde8d8da6a4a",
+      "charity": "BC Children's Hospital Foundation",
+      "location": "Vancouver, BC",
+      "url": "https://www.bcchf.ca/",
+      "image": "",
+      "description": "We’re on a quest to ensure kids receive the best health care imaginable. BC Children’s is the only hospital in the province devoted exclusively to the care of children. That means one million kids—including some of the sickest and most seriously injured—count on the hospital for specialized care they often can’t receive anywhere else. Last year, more than 99,000 patients visited the hospital, including its acute care centre, research institute, mental health facility and other facilities.",
+      "field": "Healthcare",  
+      "testimonials": [
+        {
+          "id": "1b964601-a6dd-4fcc-b5f3-1000338c9557",
+          "name": "Dr. Helen",
+          "comment": "Our commitment to improving the health of kids will have a positive ripple effect for decades to come.",
+          "timestamp": 1631532721000
+        },
+        {
+          "id": "6ed06295-635f-4fe7-b2b2-83b422c65a1f",
+          "name": "Jacob Fellows",
+          "comment": "Whether it’s kidney failure, cancer, heart disease, or brain health, at BC Children’s there are hundreds of health experts tirelessly delivering care, and over 1,000 researchers working on the next breakthrough. ",
+          "timestamp": 1631816492000
+        },
+        {
+          "id": "a2b4ccd4-af48-46e9-9e62-b96731dad728",
+          "name": "Fred Keller",
+          "comment": "Never underestimate the impact you can make for kids across BC and the Yukon.",
+          "timestamp": 1631799181000
+        }
+      ]
+    },
+    {
+      "id": "b6f35f03-7936-409b-bd2a-446bcc5f30e7",
+      "charity": "Make a Wish Foundation",
+      "location": "Toronto Ontario",
+      "url": "https://makeawish.ca/",
+      "image": "",
+      "description": "We create life-changing wishes for Canadian children with critical illnesses. Wishes help replace fear with confidence, sadness with joy, and anxiety with hope that anything is possible.",
+      "field": "",  
+      "testimonials": [
+        {
+          "id": "f7b9027b-e407-45fa-98f3-7d8a308ddf7c",
+          "name": "Emma Tutor",
+          "comment": "Over 4,000 heartfelt wishes are waiting to be granted.",
+          "timestamp": 1631716921000
+        },
+        {
+          "id": "921f0e8d-f9d1-44db-b4a2-a2718339891e",
+          "name": "Katy Willows",
+          "comment": "Become a volunteer and help bring joy to children and respite to their families.",
+          "timestamp": 1631892222000
+        },
+        {
+          "id": "bf704c76-cba9-462e-ac0a-166315df756c",
+          "name": "Benjamin Button",
+          "comment": "Find out what's happening in your community.Participate in a local fundraising event or plan your own.",
+          "timestamp": 1632227521000
+        }
+      ]
+    },
+    {
+      "id": "ec2bec8d-ea2b-458e-9d93-b7f929a8659b",
+      "charity": "World Wildlife Federation",
+      "location": "Washington, DC",
+      "url": "https://www.worldwildlife.org/",
+      "image": "",
+      "description": "Our mission is to conserve nature and reduce the most pressing threats to the diversity of life on Earth. ",
+      "field": "Concervation",  
+      "testimonials": [
+        {
+          "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa",
+          "name": "Jane Goodall",
+          "comment": "We collaborate with local communities to conserve the natural resources we all depend on and build a future in which people and nature thrive.",
+          "timestamp": 1631976360000
+        },
+        {
+          "id": "7ba106bf-e74a-4c21-b59e-c485a30eea45",
+          "name": "Monkey D Luffy",
+          "comment": "We can challenge the planet's greatest threats and ensure a healthy future for people and nature.",
+          "timestamp": 1632344461000
+        },
+        {
+          "id": "ade82e25-6c87-4403-ba35-47bdff93a51c",
+          "name": "Amy Zoolander",
+          "comment": "Strategic and sustainable development that provides for humanity's needs and allows nature to thrive ",
+          "timestamp": 1632512763000
+        }
+      ]
+    }
+  ]
