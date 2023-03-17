@@ -12,7 +12,7 @@ function readOrganizations () {
 
 //get organizations 
 router.get("/", (req,res) => {
-    const organizations = readOrganizations;
+    const organizations = readOrganizations();
     const organizationsData = organizations.map ((organization) => {
         return {
             id: organization.id, 
@@ -22,5 +22,6 @@ router.get("/", (req,res) => {
             image: organization.image,
         }
     })
+    console.log (organizations);
     res.status(200).json(organizationsData);
 })
