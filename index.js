@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const { v4: uuidv4 } = require("uuid");
 const cors = require("cors");
-const PORT = 9090;
+const PORT = 5000;
 const organizationRoutes = require("./routes/organizations")
 
 app.use(cors({origin: CORS_ORIGIN}))
